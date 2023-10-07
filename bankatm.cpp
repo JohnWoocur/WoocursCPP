@@ -1,6 +1,6 @@
-# include <iostream.h>
-# include <conio.h>
-void main()
+#include <iostream>
+using namespace std;
+int main()
 {
 char p='y';
 while(p=='y')
@@ -73,6 +73,6 @@ cout<<"invalid pin number\n";
 cout<<"do you wish to go to home page y or n\n";
 cin>>p;
 }
-getch();
+return 0;
 }
 
