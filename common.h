@@ -15,5 +15,10 @@ string getChars(int count, char character = ' ')
 
 void print(string data)
 {
+    cout << data;
+}
+
+void println(string data)
+{
     cout << data << endl;
 }
