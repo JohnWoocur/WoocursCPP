@@ -17,7 +17,7 @@ int  main()
     //statements
 	menu();
   sreport();
-  ayroll();
+  payroll();
   deposit();
 }
 
