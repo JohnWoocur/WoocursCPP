@@ -1,12 +1,12 @@
- #include <iostream>
+#include <iostream>
 // Next Header files declaration
-
 #include <fstream>
 #include <stdlib.h>
 #include <cstdlib>
 #include "stadd.h"
 #include "deposit.h"
- #include "full.h"
+#include "full.h"
+#include "streport.h"
 
 using namespace std;
 
@@ -14,13 +14,11 @@ using namespace std;
 
 int  main()
 {
-    
-
     //statements
-  payroll();
-deposit();
-
 	menu();
+  sreport();
+  ayroll();
+  deposit();
 }
 
 //definition
