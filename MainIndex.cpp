@@ -1,4 +1,5 @@
-#include <iostream>
+ #include <iostream>
+ #include "full.h"
 // Next Header files declaration
 #include <fstream>
 #include <stdlib.h>
@@ -11,6 +12,8 @@ using namespace std;
 
 int  main()
 {
+    payroll();
+
     //statements
 	menu();
 }
