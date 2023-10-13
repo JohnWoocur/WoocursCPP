@@ -1,25 +1,26 @@
- #include <iostream>
- #include "full.h"
+#include <iostream>
 // Next Header files declaration
 #include <fstream>
 #include <stdlib.h>
 #include <cstdlib>
-#include "stadd.h"
 #include <withdraw.h>
+#include "deposit.h"
+#include "full.h"
+#include "streport.h"
+#include "cadd.h"
+#include "stadd.h"
 
 using namespace std;
-
-//function decalration
-
-int  main()
+int main()
 {
-    payroll();
-    withdrawal();
-
     //statements
 	menu();
+  sreport();
+  payroll();
+  withdrawal();
+  deposit();
+  Create_Account();
+  
+  return 0;
 }
-
-//definition
-
 
