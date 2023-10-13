@@ -1,4 +1,7 @@
 #include <iostream>
+#include <fstream>
+#include "streport.h"
+
 // Next Header files declaration
 
 using namespace std;
@@ -7,7 +10,9 @@ using namespace std;
 
 int  main()
 {
-    //statements
+    
+sreport();
+
 }
 
 //definition
