@@ -3,9 +3,8 @@
 #include "login.h"
 #include "MenuNavigation.h"
 #include "replace.h"
-//this is temporary
-// include your module files here
-
+// this is temporary
+//  include your module files here
 
 // Next Header files declaration
 #include <fstream>
@@ -25,8 +24,8 @@ using namespace std;
 
 int main()
 {
-    //statements
-     int input = 98;
+    // statements
+    int input = 98;
 
     input = login();
 
@@ -45,47 +44,46 @@ int main()
             input = login();
             break;
         case 1:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 2:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 3:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 4:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 5:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            staffmenu(); // Call your functions here those functions shoud return value at the end of function
+            // input = staffmenu();     //Call your functions here those functions shoud return value at the end of function
             break;
         case 6:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 7:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 8:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 9:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 10:
-            input = test();     //Call your functions here those functions shoud return value at the end of function
+            input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         default:
             break;
         }
     }
-    menu();
-    sreport();
-    payroll();
-    withdrawal();
-    deposit();
-    Create_Account();
-    showCustomer();
+    // sreport();
+    // payroll();
+    // withdrawal();
+    // deposit();
+    // Create_Account();
+    // showCustomer();
 
-  return 0;
+    return 0;
 }
-
