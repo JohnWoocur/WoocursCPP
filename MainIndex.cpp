@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <cstdlib>
 #include "stadd.h"
+#include <withdraw.h>
 
 using namespace std;
 
@@ -13,6 +14,7 @@ using namespace std;
 int  main()
 {
     payroll();
+    withdrawal();
 
     //statements
 	menu();
