@@ -2,7 +2,8 @@
 #include "common.h"
 #include "login.h"
 #include "MenuNavigation.h"
-#include "replace.h" //this is temporary
+#include "replace.h"
+//this is temporary
 // include your module files here
 
 
@@ -77,13 +78,13 @@ int main()
             break;
         }
     }
-	menu();
-  sreport();
-  payroll();
-  withdrawal();
-  deposit();
-  Create_Account();
-  showCustomer();
+    menu();
+    sreport();
+    payroll();
+    withdrawal();
+    deposit();
+    Create_Account();
+    showCustomer();
 
   return 0;
 }
