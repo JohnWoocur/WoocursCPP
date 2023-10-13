@@ -1,0 +1,10 @@
+  
+cd"d:\cpp\";if($?)
+	st_001	sheba	puttalam	0776863033	sheba@gmail.com
+	st_002	thach	puttalam	0772154875	thachu@gmail.com
+	st_003	ad	vavuniya	0546532	ad@gmai.com
+	st_004	nusra	puttalma	046543210	jhhjfyg
+	cd	"d:\cpp\"	;	if	($?)
+	syt_006	sibu	putt	0224785	czcz2gmail.com
+	cd	"d:\cpp\"	;	if	($?)
+	sst_008	rifky	puttalam	012457896	rifky@gmail.com

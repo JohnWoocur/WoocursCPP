@@ -1,8 +1,12 @@
 #include <iostream>
-#include <fstream>
-#include "streport.h"
-
 // Next Header files declaration
+#include <fstream>
+#include <stdlib.h>
+#include <cstdlib>
+#include "stadd.h"
+#include "deposit.h"
+#include "full.h"
+#include "streport.h"
 
 using namespace std;
 
@@ -10,9 +14,11 @@ using namespace std;
 
 int  main()
 {
-    
-sreport();
-
+    //statements
+	menu();
+  sreport();
+  ayroll();
+  deposit();
 }
 
 //definition
