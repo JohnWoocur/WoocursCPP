@@ -8,6 +8,7 @@
 #include "full.h"
 #include "streport.h"
 #include "cadd.h"
+#include "show.h"
 
 using namespace std;
 int main()
@@ -18,6 +19,8 @@ int main()
   ayroll();
   deposit();
   Create_Account();
+  showCustomer();
+  
   return 0;
 }
 
