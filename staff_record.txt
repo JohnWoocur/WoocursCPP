@@ -8,3 +8,6 @@ cd"d:\cpp\";if($?)
 	syt_006	sibu	putt	0224785	czcz2gmail.com
 	cd	"d:\cpp\"	;	if	($?)
 	sst_008	rifky	puttalam	012457896	rifky@gmail.com
+	1000	John	woocur	077	1234567
+	10002	woocurs	vavuniya	07712154'	ndkef@gmail.com
+	bvdkjb	gkjdvn	vdnvgk	vjkdf	vjd

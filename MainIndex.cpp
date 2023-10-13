@@ -24,7 +24,8 @@ using namespace std;
 
 int main()
 {
-    int input = 98;
+    //statements
+     int input = 98;
 
     input = login();
 
@@ -76,10 +77,6 @@ int main()
             break;
         }
     }
-}
-int main()
-{
-    //statements
 	menu();
   sreport();
   payroll();
@@ -87,7 +84,7 @@ int main()
   deposit();
   Create_Account();
   showCustomer();
-  
+
   return 0;
 }
 
