@@ -7,20 +7,17 @@
 #include "deposit.h"
 #include "full.h"
 #include "streport.h"
+#include "cadd.h"
 
 using namespace std;
-
-//function decalration
-
-int  main()
+int main()
 {
     //statements
 	menu();
   sreport();
   ayroll();
   deposit();
+  Create_Account();
+  return 0;
 }
-
-//definition
-
 
