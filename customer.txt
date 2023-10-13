@@ -1,1 +1,0 @@
- account:1 name:jd type:saving address:vavuniya phone:7 email:jd@gmail nic:9942345235v dob:19992312 initial:1000
