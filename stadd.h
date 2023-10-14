@@ -5,10 +5,10 @@ using namespace std;
 
 
 
-void menu();
+void staffmenu();
 void insert();
 
-void menu()
+void staffmenu()
 {
 menustart:
     int choice;
