@@ -16,7 +16,7 @@
 #include "full.h"
 #include "streport.h"
 #include "cadd.h"
-#include "show.h"
+#include "showCustomer.h"
 #include "stadd.h"
 
 using namespace std;
