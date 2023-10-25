@@ -64,15 +64,15 @@ float Create_Account()
     {
 
     case 2:
-        return 0;
+        return 100;
         break;
 
     case 3:
-        return 0;
+        return 98;
         break;
 
     case 4:
-        return 0;
+        return 99;
         break;
 
     default:
