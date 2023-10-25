@@ -3,6 +3,7 @@
 #include "login.h"
 #include "MenuNavigation.h"
 #include "replace.h"
+#include "custemer_report.h"
 // this is temporary
 //  include your module files here
 
@@ -53,7 +54,7 @@ int main()
             input = test(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 4:
-            input = test(); // Call your functions here those functions shoud return value at the end of function
+            input = cReport(); // Call your functions here those functions shoud return value at the end of function
             break;
         case 5:
             staffmenu(); // Call your functions here those functions shoud return value at the end of function
